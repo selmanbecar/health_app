@@ -2,7 +2,7 @@
 
 ###Step 1.
 ###### In terminal or command prompt clone project.
-    `git clone lkdsajflaksf`
+    `git clone https://github.com/selmanbecar/health_app.git`
 ###Step 2.
 ###### Enter into project root folder using terminal or command prompt.
     `cd softhouse_app
